@@ -1,6 +1,8 @@
 # RE-EU_datavis
 Visualization of RE-Europe data
 
+Datafiles must be downloaded as described in Data/datafiles.txt.
+
 main_no_background.py visualizes prices computed from the RE-Europe model for various wind- and solar scenarios.
 
 Required packages (tested version):
